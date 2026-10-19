@@ -1,5 +1,5 @@
 # day8_Magic_Number.py.
-My Python learning journey
+#If you repeatedly add its digits until you get a single digit, and that digit is 1.
 num = int(input("Enter a number: "))
 
 while num > 9:
